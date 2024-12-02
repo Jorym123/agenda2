@@ -1,0 +1,31 @@
+body {
+    background-color: #d9e3e6;
+    display: grid;
+    min-height: 100vh;
+    margin: 0;
+    grid-template-rows: auto 1fr auto; /* Three rows: header, content, footer */
+}
+header {
+    background-color: darkslategray;
+    /* Cambia el color de fondo según tus preferencias */
+    padding: 10px 0;
+    /* Espaciado vertical */
+}
+main {
+    text-align: center;
+    margin: 10px auto;
+    width: 1000px;
+}
+.card { /* Haz que la tarjeta sea un contenedor flex */
+    flex-direction: column; /* Alinear contenido verticalmente */
+    align-items: center; /* Centrar contenido horizontalmente */
+    justify-content: center/* Centrar contenido verticalmente */
+}
+footer {
+    background-color: #013946;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto;
+    grid-row: 3;
+}
