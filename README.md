@@ -1,8 +1,8 @@
 # Proyecto de Login y CRUD de Usuarios en PHP
 
 **Integrantes**
-Jorym Velasque Bustinza
-Edgar Puma Machacca
+* Jorym Velasque Bustinza
+* Edgar Puma Machacca
 
 **Descripción:**
 Este proyecto es un sistema de autenticación y gestión de usuarios desarrollado en PHP. Permite a los usuarios registrarse, iniciar sesión y gestionar sus propios datos.
