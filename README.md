@@ -26,8 +26,8 @@ Este proyecto es un sistema de autenticación y gestión de usuarios desarrollad
 
 **CRUD de usuarios:**
 
-**Registrar:** Permitir a los Nuevos usuarios registrarse.
-**Iniciar Sesión:** Permite ingresar a los usuarios mediante un formulario.
+* **Registrar:** Permitir a los Nuevos usuarios registrarse.
+* **Iniciar Sesión:** Permite ingresar a los usuarios mediante un formulario.
 
 **Agenda**
 * id(primaria)
@@ -39,7 +39,7 @@ Este proyecto es un sistema de autenticación y gestión de usuarios desarrollad
 
 **CRUD de Agenda:**
 
-**Crear:** Permitir a los usuarios registrar y crear una nueva agenda.
-**Leer:** Mostrar una lista de las Tareas o Eventos Registrados
-**Actualizar:** Permitir a los usuarios editar sus propias agendas.
-**Eliminar:** Permitir a los usuarios eliminar sus agendas.
+* **Crear:** Permitir a los usuarios registrar y crear una nueva agenda.
+* **Leer:** Mostrar una lista de las Tareas o Eventos Registrados
+* **Actualizar:** Permitir a los usuarios editar sus propias agendas.
+* **Eliminar:** Permitir a los usuarios eliminar sus agendas.
